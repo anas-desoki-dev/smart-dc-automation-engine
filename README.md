@@ -37,5 +37,5 @@ In large-scale construction projects, Document Controllers struggle with:
 ## 📸 Interface Preview
 
 ![Main Dashboard](main-dashboard.png)
-*(Replace this link with your actual screenshot)*
+
 
